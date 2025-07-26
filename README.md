@@ -2,6 +2,10 @@
 
 SupportX AI Assist is an intelligent IT ticket resolver that leverages Azure OpenAI, vector search, and agent-based automation to provide instant solutions to IT issues. If the AI cannot resolve an issue, it escalates the ticket to IT support via email.
 
+
+<img width="1280" height="720" alt="Copy of Intellegent IT Ticket Resolver-Multiagent project-Autogen" src="https://github.com/user-attachments/assets/c41a7f2b-7a27-4e94-977f-8702dc1a2b05" />
+
+
 ## Features
 
 - **Natural Language IT Support:** Users describe their IT issues in plain English.
