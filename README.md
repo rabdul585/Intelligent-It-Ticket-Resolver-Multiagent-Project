@@ -93,6 +93,6 @@ MIT License
 
 ---
 
-**Developed by Sandesh Hase**
+**Developed by Abdul Rahman**
 
 All rights reserved.
